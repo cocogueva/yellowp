@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+
+# Playwright
+test-results/
+playwright-report/
+/blob-report/
+/playwright/.cache/
+
+# Locust
+locustdir/__pycache__/
+
+# IDE specific files (optional)
+*.idea/
+
+# MacOS specific files (optional)
+.DS_Store
